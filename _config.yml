@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "David Ortiz Patiño"
-  avatar           : "david-animated.png"
+  avatar           : "files/david-animated.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Peru"
   employer         :
