@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "David Ortiz Patiño"
-  avatar           : "files/david-animated.png"
+  avatar           : "https://github.com/dortizp/dortiz.github.io/blob/master/files/david-animated.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Peru"
   employer         :
